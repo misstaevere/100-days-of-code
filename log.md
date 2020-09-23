@@ -6,7 +6,7 @@
 
 **Thoughts:** I know some JavaScript already but chose this beginners course so I'm able to really drill home all that I know, plus I enjoy Andrei's teachings and am still learning loads. Today I finished the DOM Manipulation (Section 12 out of 32). Looking forward to starting the next section tomorrow: Advanced JavaScript. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Gradient Generator & Shopping List Exercises](https://github.com/misstaevere/100-days-of-code/tree/master/Section%2012%20-%20DOM%20Manipulation)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
