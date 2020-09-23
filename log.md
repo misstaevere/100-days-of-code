@@ -1,11 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 1: 23rd September, 2020
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Continued the My Complete Web Developer Course on Udemy.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I know some JavaScript already but chose this beginners course so I'm able to really drill home all that I know, plus I enjoy Andrei's teachings and am still learning loads.
 
 **Link to work:** [Calculator App](http://www.example.com)
 
