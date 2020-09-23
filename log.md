@@ -1,11 +1,10 @@
 # 100 Days Of Code - Log
 
 ### Day 1: 23rd September, 2020
-##### (delete me or comment me out)
 
 **Today's Progress**: Continued the My Complete Web Developer Course on Udemy.
 
-**Thoughts:** I know some JavaScript already but chose this beginners course so I'm able to really drill home all that I know, plus I enjoy Andrei's teachings and am still learning loads.
+**Thoughts:** I know some JavaScript already but chose this beginners course so I'm able to really drill home all that I know, plus I enjoy Andrei's teachings and am still learning loads. Today I finished the DOM Manipulation (Section 12 out of 32). Looking forward to starting the next section tomorrow: Advanced JavaScript. 
 
 **Link to work:** [Calculator App](http://www.example.com)
 
