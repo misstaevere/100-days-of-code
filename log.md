@@ -8,15 +8,16 @@
 
 **Link to work:** [Gradient Generator & Shopping List Exercises](https://github.com/misstaevere/100-days-of-code/tree/master/Section%2012%20-%20DOM%20Manipulation)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: 24th September, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started the Advanced JavaScript section, went over Scope, Ternary Operator & Switch Statements, and some ECMAScript 6.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Got my first developer job offer today woohoo so I found it a little hard to focus but I'm glad I still managed to go over a few hours of material.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
+**Link(s) to work**: 
+1. [Scope Exercise](https://github.com/misstaevere/100-days-of-code/tree/master/Section%2013/advanced_exercise_1)
+2. [Ternary & Switch Exercise](https://github.com/misstaevere/100-days-of-code/tree/master/Section%2013/advanced_exercise_2)
+3. [ECMAScript6 Exercise](https://github.com/misstaevere/100-days-of-code/tree/master/Section%2013/advanced_exercise_3)
 
 ### Day 1: June 27, Monday
 
