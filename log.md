@@ -15,9 +15,9 @@
 **Thoughts**: Got my first developer job offer today woohoo so I found it a little hard to focus but I'm glad I still managed to go over a few hours of material.
 
 **Link(s) to work**: 
-1. [Scope Exercise](https://github.com/misstaevere/100-days-of-code/tree/master/Section%2013/advanced_exercise_1)
-2. [Ternary & Switch Exercise](https://github.com/misstaevere/100-days-of-code/tree/master/Section%2013/advanced_exercise_2)
-3. [ECMAScript6 Exercise](https://github.com/misstaevere/100-days-of-code/tree/master/Section%2013/advanced_exercise_3)
+1. [Scope Exercise](https://github.com/misstaevere/100-days-of-code/tree/master/Section_13%20-%20Advanced%20JavaScript/advanced_exercise_1)
+2. [Ternary & Switch Exercise](https://github.com/misstaevere/100-days-of-code/tree/master/Section_13%20-%20Advanced%20JavaScript/advanced_exercise_2)
+3. [ECMAScript6 Exercise](https://github.com/misstaevere/100-days-of-code/tree/master/Section_13%20-%20Advanced%20JavaScript/advanced_exercise_3)
 
 ### Day 1: June 27, Monday
 
