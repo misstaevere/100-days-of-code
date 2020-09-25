@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: 23rd September, 2020
+### Day 1: 23rd September, 2020 - Wednesday
 
 **Today's Progress**: Continued the My Complete Web Developer Course on Udemy.
 
@@ -8,7 +8,7 @@
 
 **Link to work:** [Gradient Generator & Shopping List Exercises](https://github.com/misstaevere/100-days-of-code/tree/master/Section%2012%20-%20DOM%20Manipulation)
 
-### Day 2: 24th September, 2020
+### Day 2: 24th September, 2020 - Thursday
 
 **Today's Progress**: Started the Advanced JavaScript section, went over Scope, Ternary Operator & Switch Statements, and some ECMAScript 6.
 
@@ -19,7 +19,7 @@
 2. [Ternary & Switch Exercise](https://github.com/misstaevere/100-days-of-code/tree/master/Section_13%20-%20Advanced%20JavaScript/advanced_exercise_2)
 3. [ECMAScript6 Exercise](https://github.com/misstaevere/100-days-of-code/tree/master/Section_13%20-%20Advanced%20JavaScript/advanced_exercise_3)
 
-### Day 1: June 27, Monday
+### Day 3: 25th September, 2020 - Friday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
