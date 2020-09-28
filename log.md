@@ -28,3 +28,32 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 4: 26th September, 2020 - Saturday
+
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 5: 27th September, 2020 - Sunday
+
+**Today's Progress**: Quickly went over the new features of ES8 & ES10.
+
+**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 6: 28th September, 2020 - Monday
+
+**Today's Progress**: Almost finished with the Advanced JavaScript section in the Udemy course.
+
+**Thoughts** Went over a great lecture about how JS works (call stack, web API, callback queue, event loop) and learned about advanced loops.
+
+**Link(s) to work**
+[Advanced Loops](https://github.com/misstaevere/100-days-of-code/tree/master/Section_13%20-%20Advanced%20JavaScript/advanced_exercise_looping)
